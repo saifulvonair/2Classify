@@ -1,0 +1,4 @@
+Accuracy:
+
+Artist - 	98.42%
+MeanOfTransportation - 97.54%
