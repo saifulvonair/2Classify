@@ -1,6 +1,7 @@
 # 2Classify
 
-The system only classify 2 category
+The system only classify 2 category, Which is VERY fast to train system. It takes Max 1 Mins for 50MB data.
+To Classify it takes milliseconds.
 
 # Usage
 
