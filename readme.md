@@ -33,7 +33,7 @@ X
 
 Which keywords will be ignored during training and predictions.
 
-Like 0,for in file meand 'for' will be ignored for both category. But if we write this..<1,for> then it will be ignored only for category 1.
+Like <0,for> in file meand 'for' will be ignored for both category. But if we write this..<1,for> then it will be ignored only for category 1.
 Also if we write <2,for> then it will be ignored only for category 2.
 
 # Accuracy
